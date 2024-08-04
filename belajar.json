@@ -1,33 +1,15 @@
 [
   {
-    "tanggal": "alu",
-    "info": "alu",
-    "gambar1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwqF0a335LVYvXTb1v8pSAUJJMcMyJiMwfQ&s",
-    "gambar2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwqF0a335LVYvXTb1v8pSAUJJMcMyJiMwfQ&s"
+    "tanggal": "x",
+    "info": "x",
+    "gambar1": "x",
+    "gambar2": "x",
+    "sort": "0"
   },
   {
-    "tanggal": "djxjx",
-    "info": "xjxjx",
-    "gambar": "xjjx"
-  },
-  {
-    "tanggal": "ejxjxj",
+    "tanggal": "ejxjjx",
     "info": "xjxjjx",
-    "gambar": "jzjxjx"
-  },
-  {
-    "tanggal": "ha",
-    "info": "ab",
-    "gambar": "H"
-  },
-  {
-    "tanggal": "alucard",
-    "info": "legendannzjxkxkKakkxkckxizoxicixisjsjxjxjx",
-    "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwqF0a335LVYvXTb1v8pSAUJJMcMyJiMwfQ&s"
-  },
-  {
-    "tanggal": "anyingg",
-    "info": "hu"
+    "gambar": "jxjjx"
   },
   {
     "tanggal": "dhdhd",
@@ -35,8 +17,33 @@
     "gambar": "xjxjxjx"
   },
   {
-    "tanggal": "ejxjjx",
+    "tanggal": "anyingg",
+    "info": "hu"
+  },
+  {
+    "tanggal": "alucard",
+    "info": "legendannzjxkxkKakkxkckxizoxicixisjsjxjxjx",
+    "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwqF0a335LVYvXTb1v8pSAUJJMcMyJiMwfQ&s"
+  },
+  {
+    "tanggal": "ha",
+    "info": "ab",
+    "gambar": "H"
+  },
+  {
+    "tanggal": "ejxjxj",
     "info": "xjxjjx",
-    "gambar": "jxjjx"
+    "gambar": "jzjxjx"
+  },
+  {
+    "tanggal": "djxjx",
+    "info": "xjxjx",
+    "gambar": "xjjx"
+  },
+  {
+    "tanggal": "alu",
+    "info": "alu",
+    "gambar1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwqF0a335LVYvXTb1v8pSAUJJMcMyJiMwfQ&s",
+    "gambar2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwqF0a335LVYvXTb1v8pSAUJJMcMyJiMwfQ&s"
   }
 ]

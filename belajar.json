@@ -1,9 +1,16 @@
 [
   {
-    "hero": "nama",
-    "download": "link",
-    "img": "gambar",
+    "hero": "x",
+    "download": "c",
+    "img": "c",
+    "img2": "",
     "sort": "1"
+  },
+  {
+    "hero": "palsu",
+    "download": "palsu",
+    "img": "palsu",
+    "sort": "0"
   },
   {
     "hero": "asli",
@@ -12,9 +19,9 @@
     "sort": "1"
   },
   {
-    "hero": "palsu",
-    "download": "palsu",
-    "img": "palsu",
-    "sort": "0"
+    "hero": "nama",
+    "download": "link",
+    "img": "gambar",
+    "sort": "1"
   }
 ]

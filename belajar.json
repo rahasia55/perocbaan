@@ -1,41 +1,16 @@
 [
   {
-    "tanggal": "m",
-    "info": "m",
+    "skin_name": "recall",
+    "download": "recall",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
+    "sort": "1"
+  },
+  {
+    "tanggal": "k",
+    "info": "k",
     "gambar1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAubCKl8aJqhX2u9miorPnGmT0_2YFPylNxLE_CDW435ZJGReM16-VYI2q&s=10",
     "gambar2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAubCKl8aJqhX2u9miorPnGmT0_2YFPylNxLE_CDW435ZJGReM16-VYI2q&s=10",
-    "sort": "1"
-  },
-  {
-    "tanggal": "d",
-    "info": "d",
-    "gambar1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAubCKl8aJqhX2u9miorPnGmT0_2YFPylNxLE_CDW435ZJGReM16-VYI2q&s=10",
-    "gambar2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAubCKl8aJqhX2u9miorPnGmT0_2YFPylNxLE_CDW435ZJGReM16-VYI2q&s=10",
-    "sort": "1"
-  },
-  {
-    "hero": "x",
-    "download": "c",
-    "img": "c",
-    "img2": "",
-    "sort": "1"
-  },
-  {
-    "hero": "palsu",
-    "download": "palsu",
-    "img": "palsu",
-    "sort": "0"
-  },
-  {
-    "hero": "asli",
-    "download": "asli",
-    "img": "asli",
-    "sort": "1"
-  },
-  {
-    "hero": "nama",
-    "download": "link",
-    "img": "gambar",
     "sort": "1"
   },
   {
@@ -46,8 +21,40 @@
     "sort": "1"
   },
   {
-    "tanggal": "k",
-    "info": "k",
+    "hero": "nama",
+    "download": "link",
+    "img": "gambar",
+    "sort": "1"
+  },
+  {
+    "hero": "asli",
+    "download": "asli",
+    "img": "asli",
+    "sort": "1"
+  },
+  {
+    "hero": "palsu",
+    "download": "palsu",
+    "img": "palsu",
+    "sort": "0"
+  },
+  {
+    "hero": "x",
+    "download": "c",
+    "img": "c",
+    "img2": "",
+    "sort": "1"
+  },
+  {
+    "tanggal": "d",
+    "info": "d",
+    "gambar1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAubCKl8aJqhX2u9miorPnGmT0_2YFPylNxLE_CDW435ZJGReM16-VYI2q&s=10",
+    "gambar2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAubCKl8aJqhX2u9miorPnGmT0_2YFPylNxLE_CDW435ZJGReM16-VYI2q&s=10",
+    "sort": "1"
+  },
+  {
+    "tanggal": "m",
+    "info": "m",
     "gambar1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAubCKl8aJqhX2u9miorPnGmT0_2YFPylNxLE_CDW435ZJGReM16-VYI2q&s=10",
     "gambar2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAubCKl8aJqhX2u9miorPnGmT0_2YFPylNxLE_CDW435ZJGReM16-VYI2q&s=10",
     "sort": "1"

@@ -1,5 +1,12 @@
 [
   {
+    "tanggal": "palsu",
+    "info": "palsu",
+    "gambar1": "palsu",
+    "gambar2": "palsu",
+    "sort": "0"
+  },
+  {
     "tanggal": "asli",
     "info": "asli",
     "gambar1": "asli",

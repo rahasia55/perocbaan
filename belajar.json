@@ -34,5 +34,14 @@
     "img": "a",
     "img2": "a",
     "sort": "0"
+  },
+  "aamon-1722813636045": {
+    "key": "aamon-1722813636045",
+    "hero": "Aamon",
+    "skin_name": "amun",
+    "download": "amun",
+    "img": "amun",
+    "img2": "amun",
+    "sort": "1"
   }
 }

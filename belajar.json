@@ -1,10 +1,17 @@
 [
   {
-    "tanggal": "judul",
-    "info": "djudl",
-    "gambar1": "kdkd",
-    "gambar2": "dmdk",
+    "tanggal": "panjanggggggggggggggggg",
+    "info": "panjangggggggggg",
+    "gambar1": "panjabggggg",
+    "gambar2": "panhabgggggg",
     "sort": "1"
+  },
+  {
+    "tanggal": "palsu",
+    "info": "palsu",
+    "gambar1": "palsu",
+    "gambar2": "palsu",
+    "sort": "0"
   },
   {
     "tanggal": "bahasa",
@@ -14,10 +21,10 @@
     "sort": "1"
   },
   {
-    "tanggal": "palsu",
-    "info": "palsu",
-    "gambar1": "palsu",
-    "gambar2": "palsu",
-    "sort": "0"
+    "tanggal": "judul",
+    "info": "djudl",
+    "gambar1": "kdkd",
+    "gambar2": "dmdk",
+    "sort": "1"
   }
 ]

@@ -1,21 +1,16 @@
 [
   {
-    "tanggal": "x",
-    "info": "c",
-    "gambar1": "x",
-    "gambar2": "x",
+    "tanggal": "d",
+    "info": "d",
+    "gambar1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAubCKl8aJqhX2u9miorPnGmT0_2YFPylNxLE_CDW435ZJGReM16-VYI2q&s=10",
+    "gambar2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAubCKl8aJqhX2u9miorPnGmT0_2YFPylNxLE_CDW435ZJGReM16-VYI2q&s=10",
     "sort": "1"
   },
   {
-    "hero": "nama",
-    "download": "link",
-    "img": "gambar",
-    "sort": "1"
-  },
-  {
-    "hero": "asli",
-    "download": "asli",
-    "img": "asli",
+    "hero": "x",
+    "download": "c",
+    "img": "c",
+    "img2": "",
     "sort": "1"
   },
   {
@@ -25,10 +20,22 @@
     "sort": "0"
   },
   {
-    "hero": "x",
-    "download": "c",
-    "img": "c",
-    "img2": "",
+    "hero": "asli",
+    "download": "asli",
+    "img": "asli",
+    "sort": "1"
+  },
+  {
+    "hero": "nama",
+    "download": "link",
+    "img": "gambar",
+    "sort": "1"
+  },
+  {
+    "tanggal": "x",
+    "info": "c",
+    "gambar1": "x",
+    "gambar2": "x",
     "sort": "1"
   }
 ]

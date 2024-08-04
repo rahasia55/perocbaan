@@ -1,32 +1,14 @@
 [
   {
-    "tanggal": "satu",
-    "info": "satu",
-    "gambar": "satu"
+    "tanggal": "alu",
+    "info": "alu",
+    "gambar1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwqF0a335LVYvXTb1v8pSAUJJMcMyJiMwfQ&s",
+    "gambar2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwqF0a335LVYvXTb1v8pSAUJJMcMyJiMwfQ&s"
   },
   {
-    "tanggal": "ejxjjx",
-    "info": "xjxjjx",
-    "gambar": "jxjjx"
-  },
-  {
-    "tanggal": "dhdhd",
-    "info": "xhxjxjx",
-    "gambar": "xjxjxjx"
-  },
-  {
-    "tanggal": "anyingg",
-    "info": "hu"
-  },
-  {
-    "tanggal": "alucard",
-    "info": "legendannzjxkxkKakkxkckxizoxicixisjsjxjxjx",
-    "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwqF0a335LVYvXTb1v8pSAUJJMcMyJiMwfQ&s"
-  },
-  {
-    "tanggal": "ha",
-    "info": "ab",
-    "gambar": "H"
+    "tanggal": "djxjx",
+    "info": "xjxjx",
+    "gambar": "xjjx"
   },
   {
     "tanggal": "ejxjxj",
@@ -34,8 +16,32 @@
     "gambar": "jzjxjx"
   },
   {
-    "tanggal": "djxjx",
-    "info": "xjxjx",
-    "gambar": "xjjx"
+    "tanggal": "ha",
+    "info": "ab",
+    "gambar": "H"
+  },
+  {
+    "tanggal": "alucard",
+    "info": "legendannzjxkxkKakkxkckxizoxicixisjsjxjxjx",
+    "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwqF0a335LVYvXTb1v8pSAUJJMcMyJiMwfQ&s"
+  },
+  {
+    "tanggal": "anyingg",
+    "info": "hu"
+  },
+  {
+    "tanggal": "dhdhd",
+    "info": "xhxjxjx",
+    "gambar": "xjxjxjx"
+  },
+  {
+    "tanggal": "ejxjjx",
+    "info": "xjxjjx",
+    "gambar": "jxjjx"
+  },
+  {
+    "tanggal": "satu",
+    "info": "satu",
+    "gambar": "satu"
   }
 ]

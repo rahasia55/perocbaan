@@ -1,10 +1,10 @@
 [
   {
-    "tanggal": "palsu",
-    "info": "palsu",
-    "gambar1": "palsu",
-    "gambar2": "palsu",
-    "sort": "0"
+    "tanggal": "judul",
+    "info": "djudl",
+    "gambar1": "kdkd",
+    "gambar2": "dmdk",
+    "sort": "1"
   },
   {
     "tanggal": "bahasa",
@@ -12,5 +12,12 @@
     "gambar1": "asli",
     "gambar2": "asli",
     "sort": "1"
+  },
+  {
+    "tanggal": "palsu",
+    "info": "palsu",
+    "gambar1": "palsu",
+    "gambar2": "palsu",
+    "sort": "0"
   }
 ]

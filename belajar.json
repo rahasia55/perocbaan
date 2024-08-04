@@ -1,10 +1,51 @@
 [
   {
-    "tanggal": "hapus",
-    "info": "hapus",
-    "gambar1": "hapus",
-    "gambar2": "hapus",
+    "tanggal": "asli",
+    "info": "asli",
+    "gambar1": "asli",
+    "gambar2": "asli",
+    "sort": "1"
+  },
+  {
+    "tanggal": "x",
+    "info": "x",
+    "gambar1": "x",
+    "gambar2": "x",
     "sort": "0"
+  },
+  {
+    "tanggal": "ejxjjx",
+    "info": "xjxjjx",
+    "gambar": "jxjjx"
+  },
+  {
+    "tanggal": "dhdhd",
+    "info": "xhxjxjx",
+    "gambar": "xjxjxjx"
+  },
+  {
+    "tanggal": "anyingg",
+    "info": "hu"
+  },
+  {
+    "tanggal": "alucard",
+    "info": "legendannzjxkxkKakkxkckxizoxicixisjsjxjxjx",
+    "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwqF0a335LVYvXTb1v8pSAUJJMcMyJiMwfQ&s"
+  },
+  {
+    "tanggal": "ha",
+    "info": "ab",
+    "gambar": "H"
+  },
+  {
+    "tanggal": "ejxjxj",
+    "info": "xjxjjx",
+    "gambar": "jzjxjx"
+  },
+  {
+    "tanggal": "djxjx",
+    "info": "xjxjx",
+    "gambar": "xjjx"
   },
   {
     "tanggal": "alu",
@@ -13,44 +54,10 @@
     "gambar2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwqF0a335LVYvXTb1v8pSAUJJMcMyJiMwfQ&s"
   },
   {
-    "tanggal": "djxjx",
-    "info": "xjxjx",
-    "gambar": "xjjx"
-  },
-  {
-    "tanggal": "ejxjxj",
-    "info": "xjxjjx",
-    "gambar": "jzjxjx"
-  },
-  {
-    "tanggal": "ha",
-    "info": "ab",
-    "gambar": "H"
-  },
-  {
-    "tanggal": "alucard",
-    "info": "legendannzjxkxkKakkxkckxizoxicixisjsjxjxjx",
-    "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwqF0a335LVYvXTb1v8pSAUJJMcMyJiMwfQ&s"
-  },
-  {
-    "tanggal": "anyingg",
-    "info": "hu"
-  },
-  {
-    "tanggal": "dhdhd",
-    "info": "xhxjxjx",
-    "gambar": "xjxjxjx"
-  },
-  {
-    "tanggal": "ejxjjx",
-    "info": "xjxjjx",
-    "gambar": "jxjjx"
-  },
-  {
-    "tanggal": "x",
-    "info": "x",
-    "gambar1": "x",
-    "gambar2": "x",
+    "tanggal": "hapus",
+    "info": "hapus",
+    "gambar1": "hapus",
+    "gambar2": "hapus",
     "sort": "0"
   }
 ]

@@ -1,30 +1,16 @@
 [
   {
-    "tanggal": "c",
-    "info": "c",
+    "tanggal": "haha",
+    "info": "haha",
+    "gambar1": "haa",
+    "gambar2": "haa",
+    "sort": "1"
+  },
+  {
+    "tanggal": "panjanggggggggggxjxjkskxkxkxkakskkxcjcjdjdjfjfkdkkskskdjd",
+    "info": "h",
     "gambar1": "c",
-    "gambar2": "c",
-    "sort": "1"
-  },
-  {
-    "tanggal": "panjangggggggggggggggggzkdkdkdkdkdkxkxkxkx",
-    "info": "panjanggggggggggxjxjkskxkxkxkakskkxcjcjdjdjfjfkdkkskskdjd",
-    "gambar1": "panjabggggg",
-    "gambar2": "panhabgggggg",
-    "sort": "1"
-  },
-  {
-    "tanggal": "palsu",
-    "info": "palsu",
-    "gambar1": "palsu",
-    "gambar2": "palsu",
-    "sort": "0"
-  },
-  {
-    "tanggal": "bahasa",
-    "info": "bahasa",
-    "gambar1": "asli",
-    "gambar2": "asli",
+    "gambar2": "jj",
     "sort": "1"
   },
   {
@@ -35,10 +21,31 @@
     "sort": "1"
   },
   {
-    "tanggal": "panjanggggggggggxjxjkskxkxkxkakskkxcjcjdjdjfjfkdkkskskdjd",
-    "info": "h",
+    "tanggal": "bahasa",
+    "info": "bahasa",
+    "gambar1": "asli",
+    "gambar2": "asli",
+    "sort": "1"
+  },
+  {
+    "tanggal": "palsu",
+    "info": "palsu",
+    "gambar1": "palsu",
+    "gambar2": "palsu",
+    "sort": "0"
+  },
+  {
+    "tanggal": "panjangggggggggggggggggzkdkdkdkdkdkxkxkxkx",
+    "info": "panjanggggggggggxjxjkskxkxkxkakskkxcjcjdjdjfjfkdkkskskdjd",
+    "gambar1": "panjabggggg",
+    "gambar2": "panhabgggggg",
+    "sort": "1"
+  },
+  {
+    "tanggal": "c",
+    "info": "c",
     "gambar1": "c",
-    "gambar2": "jj",
+    "gambar2": "c",
     "sort": "1"
   }
 ]

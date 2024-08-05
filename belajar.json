@@ -124,5 +124,14 @@
     "img": "k",
     "img2": "k",
     "sort": "1"
+  },
+  "akai": {
+    "key": "akai",
+    "hero": "Akai",
+    "skin_name": "a",
+    "download": "a",
+    "img": "a",
+    "img2": "a",
+    "sort": "1"
   }
 }

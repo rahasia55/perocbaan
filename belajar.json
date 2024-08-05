@@ -142,5 +142,14 @@
     "img": "adis",
     "img2": "adis",
     "sort": "1"
+  },
+  "aamon": {
+    "key": "aamon",
+    "hero": "Aamon",
+    "skin_name": "adus 2",
+    "download": "adus 2",
+    "img": "adus 2",
+    "img2": "adus 2",
+    "sort": "1"
   }
 }

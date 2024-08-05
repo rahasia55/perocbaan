@@ -70,5 +70,14 @@
     "img": "angel",
     "img2": "angel",
     "sort": "1"
+  },
+  "atlas-1722818938203": {
+    "key": "atlas-1722818938203",
+    "hero": "Atlas",
+    "skin_name": "atlas",
+    "download": "atlas",
+    "img": "atlas",
+    "img2": "atlas",
+    "sort": "1"
   }
 }

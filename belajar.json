@@ -178,5 +178,14 @@
     "img": "b",
     "img2": "b",
     "sort": "1"
+  },
+  "aldous-1722822365965": {
+    "key": "aldous-1722822365965",
+    "hero": "Aldous",
+    "skin_name": "aldus",
+    "download": "aldus",
+    "img": "aldus",
+    "img2": "aldus",
+    "sort": "1"
   }
 }

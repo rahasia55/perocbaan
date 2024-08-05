@@ -88,5 +88,14 @@
     "img": "c",
     "img2": "c",
     "sort": "1"
+  },
+  "argus-1722819922271": {
+    "key": "argus-1722819922271",
+    "hero": "Argus",
+    "skin_name": "argus",
+    "download": "argus",
+    "img": "argus",
+    "img2": "argus",
+    "sort": "1"
   }
 }

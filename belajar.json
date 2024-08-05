@@ -133,5 +133,14 @@
     "img": "a",
     "img2": "a",
     "sort": "1"
+  },
+  "aldous": {
+    "key": "aldous",
+    "hero": "Aldous",
+    "skin_name": "adus",
+    "download": "adus",
+    "img": "adis",
+    "img2": "adis",
+    "sort": "1"
   }
 }

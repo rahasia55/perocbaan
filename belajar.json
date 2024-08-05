@@ -79,5 +79,14 @@
     "img": "atlas",
     "img2": "atlas",
     "sort": "1"
+  },
+  "alpha": {
+    "key": "alpha",
+    "hero": "Alpha",
+    "skin_name": "cn",
+    "download": "xxc",
+    "img": "c",
+    "img2": "c",
+    "sort": "1"
   }
 }

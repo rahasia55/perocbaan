@@ -295,5 +295,14 @@
     "img": "am",
     "img2": "am",
     "sort": "1"
+  },
+  "alucard-1722825178413": {
+    "key": "alucard-1722825178413",
+    "hero": "Alucard",
+    "skin_name": "alu",
+    "download": "alu",
+    "img": "satu",
+    "img2": "dua",
+    "sort": "1"
   }
 }
